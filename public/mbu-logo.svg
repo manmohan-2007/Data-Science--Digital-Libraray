@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+<title id="title">MBU Mohan Babu University</title>
+<rect width="160" height="160" rx="18" fill="#fff"/>
+<path d="M80 12 126 30 119 91 80 132 41 91 34 30Z" fill="#c5080f"/>
+<path d="M80 22 115 36 109 86 80 116 51 86 45 36Z" fill="#fee68a"/>
+<path d="M54 80V47l26 19 26-19v33h-9V63L80 78 63 63v17Z" fill="#c5080f"/>
+<path d="M59 88h42l-5 8H64Z" fill="#8a7116"/>
+<text x="80" y="145" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800" text-anchor="middle" fill="#c5080f">MBU</text>
+</svg>
