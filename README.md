@@ -76,3 +76,9 @@ Mohan Babu University
 
 **our project demo
 <img width="1901" height="895" alt="image" src="https://github.com/user-attachments/assets/1ea6f790-e8de-44b8-8020-c6b426265eb7" />
+
+
+
+** our demo video
+"C:\Users\PAGOTI MAN MOHAN\Videos\Screen Recordings\Screen Recording 2026-10-13 225451.mp4"
+
